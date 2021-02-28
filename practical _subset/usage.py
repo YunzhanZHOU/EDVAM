@@ -22,3 +22,4 @@ class EyeTrackingDataset(Dataset):
         return sample
 
 dataset = EyeTrackingDataset(train_set, train_label)
+
