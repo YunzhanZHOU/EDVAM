@@ -24,7 +24,7 @@ Header | Definition
 `norm_pos_x` ... `projected_sphere_axis_b` | 28 pupil paremeters, referred to [Pupil Labs](https://docs.pupil-labs.com/developer/core/overview/#pupil-datum-format)
 
 # Practical subset
-The practical subset is found [here](https://drive.google.com/drive/folders/11R0xZvpWLzO9ltPblBrFrMu8IOviTAlf?usp=sharing). The usage could is [here](https://github.com/YunzhanZHOU/EDVAM/blob/main/practical%20_subset/usage.py). This dataset is subdivided into a training set and a test set containing 190830 instances and 32530 instances, respectively.
+The practical subset is [here](https://drive.google.com/drive/folders/11R0xZvpWLzO9ltPblBrFrMu8IOviTAlf?usp=sharing). The usage is [here](https://github.com/YunzhanZHOU/EDVAM/blob/main/practical%20_subset/usage.py). This dataset is subdivided into a training set and a test set containing 190830 instances and 32530 instances, respectively.
 
 The feature channels for one instance are as follows: 
 
