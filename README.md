@@ -1,7 +1,7 @@
 # Overview
 This is a 3D eye-tracking dataset for visual attention modeling in a virtual museum. It is also the first 3D eye-tracking dataset in a virtual environment.
 
-[[Paper]]() [[Raw subset]](https://github.com/YunzhanZHOU/EDVAM/tree/main/raw_subset) [[Practical subset]](https://drive.google.com/drive/folders/11R0xZvpWLzO9ltPblBrFrMu8IOviTAlf?usp=sharing) [[Practical subset usage]](https://github.com/YunzhanZHOU/EDVAM/blob/main/practical%20_subset/usage.py)
+[[Paper]](http://www.jzus.zju.edu.cn/article.php?doi=10.1631/FITEE.2000318) [[Raw subset]](https://github.com/YunzhanZHOU/EDVAM/tree/main/raw_subset) [[Practical subset]](https://drive.google.com/drive/folders/11R0xZvpWLzO9ltPblBrFrMu8IOviTAlf?usp=sharing) [[Practical subset usage]](https://github.com/YunzhanZHOU/EDVAM/blob/main/practical%20_subset/usage.py)
 
 # Raw subset
 Each person's data corresponds to one CSC file.
